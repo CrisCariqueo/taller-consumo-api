@@ -7,7 +7,7 @@
 
     <p>{{ shownData }}</p>
 
-    
+    <!-- Esta fue la entrega -->
 </template>
 
 <script setup>
